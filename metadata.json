@@ -1,0 +1,7 @@
+{
+  "name": "RenPy Voiceover Companion",
+  "description": "An AI-powered overlay tool that captures game windows, reads dialogue via OCR, analyzes character emotions, and generates voiceovers for unvoiced Visual Novels.",
+  "requestFramePermissions": [
+    "display-capture"
+  ]
+}
